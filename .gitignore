@@ -1,2 +1,5 @@
-'kerberos' 
-'node_modules' 
+kerberos
+node_modules
+/kerberos/
+kerberos/ 
+kerberos/ 
