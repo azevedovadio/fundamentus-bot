@@ -28,7 +28,7 @@ class FundamentusController extends Telegram.TelegramBaseController {
             }
 
             if (fund) {
-                    var value = response.find((item) => {
+                var value = response.find((item) => {
                     return item && item.Name.toLowerCase() === fund.toLowerCase()
                 });
 
