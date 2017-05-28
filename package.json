@@ -1,0 +1,17 @@
+{
+  "name": "fundamentus_bot",
+  "version": "1.0.0",
+  "description": "Robô para auxiliar em análises fundamentalistas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "razevedo",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.27",
+    "telegram-node-bot": "^4.0.5"
+  },
+  "devDependencies": {}
+}
